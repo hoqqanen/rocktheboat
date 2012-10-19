@@ -1,3 +1,4 @@
 *.xml
 data/raw/*
 images/*
+*.pyc
